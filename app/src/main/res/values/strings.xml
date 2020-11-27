@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Traveler</string>
+    <string name="inbox">Inbox</string>
+    <string name="driver">Driver</string>
+    <string name="completed">Completados</string>
+    <string name="canceled">Cancelados</string>
+    <string name="score">Calificación</string>
+
+    <string name="button_initiate">Iniciar viaje</string>
+    <string name="button_conclude">Finalizar viaje</string>
+    <string name="driver_name">Juan Perez De Belaunde</string>
+    <string name="driver_record">Historial Conductor</string>
+
+    <string name="completed_count">121</string>
+    <string name="canceled_count">11</string>
+    <string name="score_count">4.8</string>
+
+</resources>
